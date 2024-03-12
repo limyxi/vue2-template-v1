@@ -1,5 +1,10 @@
 {
   "repos":{
-    "repo":'3333'
+    "repo":[
+      {
+        "name":"vue2",
+        "url":"https://gitee.com/limyxi/vue2-project-template.git"
+      }
+    ]
   }
 }
