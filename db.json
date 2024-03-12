@@ -2,10 +2,12 @@
   "repos":{
     "repo":[
       {
-        "name":"vue2"
+        "name":"vue2",
+        "url":"https://gitee.com/limyxi/vue2-project-template"
       },
       {
-        "name":"vue3"
+        "name":"vue3",
+        "url":"https://gitee.com/limyxi/vue-vite-elementplusv"
       }
     ]
   }
