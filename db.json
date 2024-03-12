@@ -3,6 +3,9 @@
     "repo":[
       {
         "name":"vue2"
+      },
+      {
+        "name":"vue3"
       }
     ]
   }
